@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Vikasbehl05
 - 👀 I’m interested in Software Business
-- 🌱 I’m currently learning Multiple things
+- 🌱 I’m currently learning Reactjs
 - 💞️ I’m looking to collaborate on DSA and Full Stack
 - 📫 How to reach me bvikasbehl@yahoo.com 
 
